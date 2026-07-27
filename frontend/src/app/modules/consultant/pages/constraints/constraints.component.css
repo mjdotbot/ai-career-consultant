@@ -1,0 +1,13 @@
+select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+}
+
+.options label {
+  display: block;
+  font-weight: normal;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+/* Uses shared consultant-step layout, question, error, and actions styles from styles.css */

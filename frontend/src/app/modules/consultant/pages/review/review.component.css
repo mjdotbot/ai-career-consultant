@@ -1,0 +1,9 @@
+.summary {
+  background-color: var(--background-50);
+  padding: var(--spacing-md);
+  border-left: 4px solid var(--primary-500);
+  margin-bottom: var(--spacing-lg);
+  border-radius: var(--border-radius-sm);
+}
+
+/* Uses shared consultant-step subtitle and actions styles from styles.css */

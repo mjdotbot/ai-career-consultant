@@ -1,0 +1,7 @@
+.option {
+  display: block;
+  font-weight: normal;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+/* Uses shared consultant-step layout, question, error, and actions styles from styles.css */

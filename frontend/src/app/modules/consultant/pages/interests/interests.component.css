@@ -1,0 +1,6 @@
+.options label {
+  display: block;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+/* Uses shared consultant-step layout and actions styles from styles.css */

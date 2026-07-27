@@ -1,0 +1,22 @@
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.skill-item {
+  cursor: pointer;
+}
+
+.level-section {
+  margin-bottom: 16px;
+}
+
+select {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+}
+
+/* Uses shared consultant-step layout, error, and actions styles from styles.css */
