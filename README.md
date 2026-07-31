@@ -95,4 +95,4 @@ Please contact the project maintainer for contribution guidelines.
 
 ## License
 
-MIT © [Faiza](https://github.com/faizaafif/ai-career-consultant/blob/master/LICENSE) 
+MIT © [Jasim](https://github.com/mjdotbot/ai-career-consultant/blob/master/LICENSE) 
